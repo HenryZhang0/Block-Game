@@ -1,3 +1,4 @@
+import sys
 from numpy import block
 import pygame
 import random
